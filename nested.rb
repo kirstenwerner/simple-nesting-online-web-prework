@@ -15,7 +15,6 @@ def hopper
           :languages => ["C"]
         }
      }
-  hopper[:known_for]
 
 end
 
